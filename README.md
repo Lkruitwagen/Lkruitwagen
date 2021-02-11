@@ -5,6 +5,7 @@ I am a PhD student at the [University of Oxford School of Geography and the Envi
 
 ### I'm currently working on...
 
+:fireworks: [ML4CC](http://spaceml.org/): MLOps for climate change research, focussing on flood detection and projection
 :robot: _DeepSentinel_: a general-purpose computer vision model for Sentinel-1 and -2 sensor fusion [[Presentation](https://docs.google.com/presentation/d/1uWnbfVeZz21IY59E2RCHbfM-f7V5-xafEsuKpdTVAAE/edit?usp=sharing)][[Repo](https://github.com/Lkruitwagen/deepsentinel.git)] <br />
 :cloud: [FDL Europe 2020](https://fdleurope.org/fdl-europe-2020) Clouds & Aerosols: Machine learning for causal discovery of cloud & aerosol interactions <br />
 :globe_with_meridians: A complex network arrangement of the global fossil fuel supply chain [[Blog Post](https://medium.com/quantumblack/constructing-a-global-energy-supply-network-for-the-transition-toward-a-post-carbon-society-9d0726980af4)][[Paper](https://papers.ssrn.com/abstract=3783412)][[Repo](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)]<br />
