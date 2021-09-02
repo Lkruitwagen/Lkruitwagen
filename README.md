@@ -1,10 +1,11 @@
 # Hello!
 
-I am an early career researcher at the [University of Oxford School of Geography and the Environment](https://www.geog.ox.ac.uk/graduate/research/lkruitwagen.html). I use machine learning to build public goods for sustainable finance applications. I am also the co-founder of [Oxford Earth Observation](https://www.oxfordeo.com/), a environmental risk intelligence start-up. Please get in touch or see [my bio page](https://lkruitwagen.github.io/) for more details!
+I am an early career researcher at the [University of Oxford School of Geography and the Environment](https://www.geog.ox.ac.uk/graduate/research/lkruitwagen.html) [Sustainable Finance Programme](https://www.smithschool.ox.ac.uk/research/sustainable-finance/). I use machine learning to build public goods for sustainable finance applications. I am also the co-founder of [Oxford Earth Observation](https://www.oxfordeo.com/), a environmental risk intelligence start-up. Please get in touch or see [my bio page](https://lkruitwagen.github.io/) for more details!
 
 
 ### I'm currently working on...
 
+:ear_of_rice: [FDL Europe 2021](https://fdleurope.org/) World Food Embeddings: Self-supervised embeddings of timeseries Sentinel-2 imagery for agriculture applications.[[Presentation](https://www.youtube.com/watch?v=N8H2n_zt6nU)]
 :fireworks: [ML4CC](http://spaceml.org/): MLOps for climate change research, focussing on flood detection and projection <br />
 :robot: _DeepSentinel_: a general-purpose computer vision model for Sentinel-1 and -2 sensor fusion [[Presentation](https://docs.google.com/presentation/d/1uWnbfVeZz21IY59E2RCHbfM-f7V5-xafEsuKpdTVAAE/edit?usp=sharing)][[Paper](https://arxiv.org/abs/2102.06260)][[Repo](https://github.com/Lkruitwagen/deepsentinel.git)] <br />
 :cloud: [FDL Europe 2020](https://fdleurope.org/fdl-europe-2020) Clouds & Aerosols: Machine learning for causal discovery of cloud & aerosol interactions [[Tech Memo](https://drive.google.com/file/d/1KoLPmBavAIeenBp7WuxsitGZazUKGZhY/view?usp=sharing)]<br />
