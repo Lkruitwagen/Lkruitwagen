@@ -15,3 +15,8 @@ I am an early career researcher at the [University of Oxford School of Geography
 :cloud: [FDL Europe 2020](https://fdleurope.org/fdl-europe-2020) Clouds & Aerosols: Machine learning for causal discovery of cloud & aerosol interactions [[Tech Memo](https://drive.google.com/file/d/1KoLPmBavAIeenBp7WuxsitGZazUKGZhY/view?usp=sharing)]<br />
 :globe_with_meridians: A complex network arrangement of the global fossil fuel supply chain [[Blog Post](https://medium.com/quantumblack/constructing-a-global-energy-supply-network-for-the-transition-toward-a-post-carbon-society-9d0726980af4)][[Paper](https://papers.ssrn.com/abstract=3783412)][[Repo](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)]<br />
 :sunny: A global inventory of solar PV generating units [[Presentation](https://docs.google.com/presentation/d/14r68rCsGERPc_r6Io-_c0zu-EQKiDhV4Sin2jBsgYxE/edit?usp=sharing)] [[GRASFI 2019 Talk](https://www.susfinalliance2019.org/conference-videos?wix-vod-video-id=ade617aad2364116b4c7f357ff90ef27&wix-vod-comp-id=comp-k266doyq)] [[NeurIPS 2019 CCAI Talk (Kyle Story, Coauthor)](https://slideslive.com/38922408/a-global-inventory-of-utilityscale-solar-photovoltaic-power-stations)] <br />
+
+
+### I also teach...
+:eyes: [Computer Vision](https://github.com/Lkruitwagen/teaching_computer_vision): Masters' level introduction to computer vision with convolutional neural networks, transfer learning, and TensorFlow.
+:triangular_ruler: [Spatial Data Analysis with Python](https://github.com/Lkruitwagen/teaching_spatial_methods): Postgraduate-level spatial data analysis and spatial statistics.
