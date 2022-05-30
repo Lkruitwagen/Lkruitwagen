@@ -18,5 +18,5 @@ I am an early career researcher at the [University of Oxford School of Geography
 
 
 ### I also teach...
-:eyes: [Computer Vision](https://github.com/Lkruitwagen/teaching_computer_vision): Masters' level introduction to computer vision with convolutional neural networks, transfer learning, and TensorFlow.
+:eyes: [Computer Vision](https://github.com/Lkruitwagen/teaching_computer_vision): Masters' level introduction to computer vision with convolutional neural networks, transfer learning, and TensorFlow.<br />
 :triangular_ruler: [Spatial Data Analysis with Python](https://github.com/Lkruitwagen/teaching_spatial_methods): Postgraduate-level spatial data analysis and spatial statistics.
