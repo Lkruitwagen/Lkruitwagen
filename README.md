@@ -5,7 +5,7 @@ I am an early career researcher at the [University of Oxford School of Geography
 
 ### I'm currently working on...
 
-![oxeo](https://uploads-ssl.webflow.com/6123e0973703a2ae505c61bc/6128c05fdef461e8543e5869_oxeo_favico_black.png =64x64)[Oxford Earth Observation](https://www.oxfordeo.com/): Measuring and predicting water stress risk at the asset level. <br />
+<img alt="oxeo" width="32px" src="https://uploads-ssl.webflow.com/6123e0973703a2ae505c61bc/6128c05fdef461e8543e5869_oxeo_favico_black.png" />[Oxford Earth Observation](https://www.oxfordeo.com/): Measuring and predicting water stress risk at the asset level. <br />
 :droplet: [Wave2Web Hackathon](https://www.wricitiesindia.org/content/wave2web-hack): Predicting water availability for sixty-six reservoirs in India [[Org](https://github.com/H2Oxford)][[Dash](https://www.h2ox.org/)][[API](https://api.h2ox.org)][[Paper](https://eartharxiv.org/repository/view/3381/)] <br />
 
 ### Past work includes...
