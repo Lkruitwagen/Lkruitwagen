@@ -1,14 +1,16 @@
 # Hello!
 
-I am an early career researcher at the [University of Oxford School of Geography and the Environment](https://www.geog.ox.ac.uk/graduate/research/lkruitwagen.html) [Sustainable Finance Programme](https://www.smithschool.ox.ac.uk/research/sustainable-finance/). I use machine learning to build public goods for sustainable finance applications. I am also the co-founder of [Oxford Earth Observation](https://www.oxfordeo.com/), a environmental risk intelligence start-up. Please get in touch or see [my bio page](https://lkruitwagen.github.io/) for more details!
+My name is Lucas, I use machine learning to build public information goods for sustainable finance. I'm the Tech Lead of TransitionZero, an NGO accelerating the transition to a net-zero energy system. I was a postdoc with the [University of Oxford School of Geography and the Environment](https://www.geog.ox.ac.uk/graduate/research/lkruitwagen.html) [Sustainable Finance Programme](https://www.smithschool.ox.ac.uk/research/sustainable-finance/) and [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/). I was also the co-founder of [Oxford Earth Observation](https://www.oxfordeo.com/), a environmental risk intelligence start-up. Please get in touch or see [my bio page](https://lkruitwagen.github.io/) for more details!
 
 
 ### I'm currently working on...
 
-<img alt="oxeo" width="16px" src="https://uploads-ssl.webflow.com/6123e0973703a2ae505c61bc/6128c05fdef461e8543e5869_oxeo_favico_black.png"/>  [Oxford Earth Observation](https://www.oxfordeo.com/): Measuring and predicting water stress risk at the asset level. <br />
-:droplet: [Wave2Web Hackathon](https://www.wricitiesindia.org/content/wave2web-hack): Predicting water availability for sixty-six reservoirs in India [[Org](https://github.com/H2Oxford)][[Dash](https://www.h2ox.org/)][[API](https://api.h2ox.org)][[Paper](https://eartharxiv.org/repository/view/3381/)] <br />
+:crystal_ball: [TransitionZero's](https://www.transitionzero.org/) Future Energy Outlook. *Stay tuned...* <br />
 
 ### Past work includes...
+
+<img alt="oxeo" width="16px" src="https://uploads-ssl.webflow.com/6123e0973703a2ae505c61bc/6128c05fdef461e8543e5869_oxeo_favico_black.png"/>  [Oxford Earth Observation](https://www.oxfordeo.com/): Measuring and predicting water stress risk at the asset level. <br />
+:droplet: [Wave2Web Hackathon](https://www.wricitiesindia.org/content/wave2web-hack): Predicting water availability for sixty-six reservoirs in India [[Org](https://github.com/H2Oxford)][[Dash](https://www.h2ox.org/)][[API](https://api.h2ox.org)][[Paper](https://eartharxiv.org/repository/view/3381/)] <br />
 :ear_of_rice: [FDL Europe 2021](https://fdleurope.org/): Self-supervised embeddings of timeseries Sentinel-2 imagery for agriculture applications.[[Presentation](https://www.youtube.com/watch?v=N8H2n_zt6nU)] <br />
 :fireworks: [ML4CC](http://spaceml.org/): MLOps for climate change research, focussing on flood detection and projection <br />
 :robot: _DeepSentinel_: a general-purpose computer vision model for Sentinel-1 and -2 sensor fusion [[Presentation](https://docs.google.com/presentation/d/1uWnbfVeZz21IY59E2RCHbfM-f7V5-xafEsuKpdTVAAE/edit?usp=sharing)][[Paper](https://arxiv.org/abs/2102.06260)][[Repo](https://github.com/Lkruitwagen/deepsentinel.git)] <br />
