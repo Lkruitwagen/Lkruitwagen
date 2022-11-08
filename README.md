@@ -24,4 +24,6 @@ My name is Lucas, I use machine learning to build public information goods for s
 :triangular_ruler: [Spatial Data Analysis with Python](https://github.com/Lkruitwagen/teaching_spatial_methods): Postgraduate-level spatial data analysis and spatial statistics.
 
 ### About me
-:canada: in London. :gb: Sci-fi reader (Le Guin, Butler, Simmons). :rocket: Happiest outdoors. :tent:
+:canada: in London :gb: <br />
+:rocket: Sci-fi reader (Le Guin, Butler, Simmons)  <br />
+:tent: Happiest outdoors
