@@ -22,3 +22,6 @@ My name is Lucas, I use machine learning to build public information goods for s
 ### I also teach...
 :eyes: [Computer Vision](https://github.com/Lkruitwagen/teaching_computer_vision): Masters' level introduction to computer vision with convolutional neural networks, transfer learning, and TensorFlow.<br />
 :triangular_ruler: [Spatial Data Analysis with Python](https://github.com/Lkruitwagen/teaching_spatial_methods): Postgraduate-level spatial data analysis and spatial statistics.
+
+### About me
+:canada: in London. :gb: Sci-fi reader (Le Guin, Butler, Simmons). :rocket: Happiest outdoors. :tent:
