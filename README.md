@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Lucas, I use machine learning to build public information goods for sustainable finance. I'm the Tech Lead of TransitionZero, an NGO accelerating the transition to a net-zero energy system. I was a postdoc with the [University of Oxford School of Geography and the Environment](https://www.geog.ox.ac.uk/graduate/research/lkruitwagen.html) [Sustainable Finance Programme](https://www.smithschool.ox.ac.uk/research/sustainable-finance/) and [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/). I was also the co-founder of [Oxford Earth Observation](https://www.oxfordeo.com/), a environmental risk intelligence start-up. Please get in touch or see [my bio page](https://lkruitwagen.github.io/) for more details!
+My name is Lucas, I use machine learning to build public information goods for sustainable finance. I'm the CTO of TransitionZero, an NGO accelerating the transition to a net-zero energy system. I was a postdoc with the [University of Oxford School of Geography and the Environment](https://www.geog.ox.ac.uk/graduate/research/lkruitwagen.html) [Sustainable Finance Programme](https://www.smithschool.ox.ac.uk/research/sustainable-finance/) and [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/). I was also the co-founder of [Oxford Earth Observation](https://www.oxfordeo.com/), a environmental risk intelligence start-up. Please get in touch or see [my bio page](https://lkruitwagen.github.io/) for more details!
 
 
 ### I'm currently working on...
