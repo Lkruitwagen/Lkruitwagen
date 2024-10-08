@@ -5,10 +5,11 @@ My name is Lucas, I use machine learning to build public information goods for s
 
 ### I'm currently working on...
 
-:crystal_ball: [TransitionZero's](https://www.transitionzero.org/) Future Energy Outlook. *Stay tuned...* <br />
+:zap::rocket::zap: something new. _Stay tuned..._
 
 ### Past work includes...
 
+:crystal_ball: [TransitionZero's](https://www.transitionzero.org/) Future Energy Outlook. [[repo](https://github.com/transition-zero/tz-osemosys)] <br />
 <img alt="oxeo" width="16px" src="https://uploads-ssl.webflow.com/6123e0973703a2ae505c61bc/6128c05fdef461e8543e5869_oxeo_favico_black.png"/>  [Oxford Earth Observation](https://www.oxfordeo.com/): Measuring and predicting water stress risk at the asset level. <br />
 :droplet: [Wave2Web Hackathon](https://www.wricitiesindia.org/content/wave2web-hack): Predicting water availability for sixty-six reservoirs in India [[Org](https://github.com/H2Oxford)][[Dash](https://www.h2ox.org/)][[API](https://api.h2ox.org)][[Paper](https://eartharxiv.org/repository/view/3381/)] <br />
 :ear_of_rice: [FDL Europe 2021](https://fdleurope.org/): Self-supervised embeddings of timeseries Sentinel-2 imagery for agriculture applications.[[Presentation](https://www.youtube.com/watch?v=N8H2n_zt6nU)] <br />
