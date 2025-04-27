@@ -5,7 +5,7 @@ My name is Lucas, I use machine learning to build public information goods for s
 
 ### I'm currently working on...
 
-:zap::rocket::zap: something new. _Stay tuned..._
+👷 Freelancing and parental leave 👶
 
 ### Past work includes...
 
